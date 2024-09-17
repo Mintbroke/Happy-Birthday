@@ -70,6 +70,9 @@ img {
 }
 
 audio{
+    display: block;
     grid-area: sound;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
