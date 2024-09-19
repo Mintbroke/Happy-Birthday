@@ -32,6 +32,7 @@ header {
 h1 {
     grid-area: h1;
     font-size: 3em;
+    color: #fff800
 }
 
 section {
@@ -41,7 +42,13 @@ section {
     grid-template-areas: "image";
     padding: 20px;
     align-items: center;
+    /*
+    background-color: #ffddff;
+    */
+    
     background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-position: bottom center;
 }
 
 .image-left {
