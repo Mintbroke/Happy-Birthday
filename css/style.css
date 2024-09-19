@@ -41,7 +41,7 @@ section {
     grid-template-areas: "image";
     padding: 20px;
     align-items: center;
-    background-image: url('images/birthday-background.jpg');
+    background-image: url('images/background.jpg');
 }
 
 .image-left {
