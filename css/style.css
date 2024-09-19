@@ -68,7 +68,7 @@ section {
 img {
     display: block;
     grid-area: image;
-    max-width: 100%;
+    max-width: auto;
     height: auto;
     border-radius: 8px;
     margin-top: 10px auto;
